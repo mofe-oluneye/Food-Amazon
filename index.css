@@ -26,30 +26,39 @@ nav ul li a {
  font-family: "Inter", sans-serif;
 }
 
-.nav-img-1 img{
+.nav-img-1 {
     margin-left: 945px;
-    margin-top: -78px;
-    width: 2%;
-    height: 25px;
+    margin-top: -41px;
+}
+
+.nav-img-1 img{
+       /* width: 2%; */
+    height: 28px;
+}
+
+.nav-img-2 {
+     margin-left: 1013px;
+    margin-top: -32px;
 }
 
 .nav-img-2 img{
-     margin-left: 1013px;
-    margin-top: -126px;
-    width: 2%;
-    height: 25px;
+       /* width: 2%; */
+    height: 28px;
+}
+
+.nav-img-3 {
+    margin-left: 1044px;
+    margin-top: -33px;
 }
 
 .nav-img-3 img{
-   margin-left: 1044px;
-    margin-top: -174px;
-    width: 2%;
-    height: 25px;
+       /* width: 2%; */
+    height: 28px;
 }
 
 .btn{
-        margin-left: 1095px;
-    margin-top: -93px;
+          margin-left: 1134px;
+    margin-top: -40px;
 }
 
 .btn-sign{
